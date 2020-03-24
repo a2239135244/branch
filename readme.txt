@@ -1,2 +1,1 @@
-Creating a new branch is quick.
-更改内容
+Creating a new branch is quick AND simple.
