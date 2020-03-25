@@ -1,2 +1,5 @@
 #忽略 explain.txt 
 explain.txt
+
+#忽略 test 目录  下的 txt 文件格式的文件
+/test/*.txt
